@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
 
-- 🌱 I’m currently learning **React JS**,**GraphQL**
+- 🌱 I’m currently learning **React JS**,**GraphQL**, **Redux**
 
 - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
 

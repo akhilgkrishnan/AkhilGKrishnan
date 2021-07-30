@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
+- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.gtihub.io)
 
 - 📫 How to reach me **info@akhilgkrishnan.me**
 

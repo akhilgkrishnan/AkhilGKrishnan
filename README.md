@@ -34,4 +34,4 @@
 <a href="https://medium.com/@akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilgkrishnan" height="30" width="30" /></a>
 </p>
 
-Holopin board](https://holopin.io/api/user/board?user=akhilgkrishnan)](https://holopin.io/@akhilgkrishnan)
+[![@akhilgkrishnan's Holopin board](https://holopin.io/api/user/board?user=akhilgkrishnan)](https://holopin.io/@akhilgkrishnan)

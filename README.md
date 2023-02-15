@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.github.io](https://akhilgkrishnan.github.io)
 
-- 📫 How to reach me **[info@akhilgkrishnan.me](https://akhilg.bio.link/)**
+- 📫 How to reach me **[akhilg.bio.link](https://akhilg.bio.link/)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

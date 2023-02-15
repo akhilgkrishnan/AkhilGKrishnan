@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- 💼 Senior Software Developer at [Saeloun](https//github.com/saeloun)
+- 💼 Senior Software Developer at [Saeloun](https://github.com/saeloun)
 
 - 🔭 I’m currently working on [Miru](https://github.com/saeloun/Miru-web)
 

@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil G Krishnan</h1>
+<p align="center"> <img src="https://github.com/akhilgkrishnan/AkhilGKrishnan/assets/22231095/fef19c3a-e397-4ec3-8a71-71e5e8ad5e52" width="350" height="350" /> </p>
 <h3 align="center">I'm Akhil G Krishnan, a 25-year-old technical enthusiast who does web development. Passionate to contribute to open-source projects and make cool products.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 

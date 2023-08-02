@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Miru](https://github.com/saeloun/Miru-web)
 
-- 🌱 I’m currently learning **Kubernetes**, **Terraform**
+- 🌱 I’m currently learning **Kubernetes**, **Helm** and **Learning more about the performance bottlenecks in backend applications.**
 
 - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
 

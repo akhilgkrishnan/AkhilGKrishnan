@@ -19,7 +19,7 @@
 
 # 📝 Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Saeloun Blog](https://blog.saeloun.com/authors/akhil)
+- [Technical Blogs](https://akhilgkrishnan.me/posts/)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stacks

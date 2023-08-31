@@ -7,15 +7,15 @@
 
 - 💼 Senior Software Developer at [Saeloun](https://github.com/saeloun)
 
-- 🔭 I’m currently working on [Miru](https://github.com/saeloun/Miru-web)
+- 🔭 I’m currently working on contributing [Rails](https://github.com/rails/rails)
 
 - 🌱 I’m currently learning **Kubernetes**, **Helm** and **Learning more about the performance bottlenecks in backend applications.**
 
 - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.github.io](https://akhilgkrishnan.github.io)
+- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects/](https://akhilgkrishnan.me/projects/)
 
-- 📫 How to reach me **[akhilgkrishnan.me](https://akhilgkrishnan/)**
+- 📫 How to reach me **[akhilgkrishnan.me](https://akhilgkrishnan.me/)**
 
 # 📝 Blogs
 <!-- BLOG-POST-LIST:START -->

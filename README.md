@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Kubernetes**, **Helm** and **Learning more about the performance bottlenecks in backend applications.**
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
-
 - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects/](https://akhilgkrishnan.me/projects/)
 
 - 📫 How to reach me **[akhilgkrishnan.me](https://akhilgkrishnan.me/)**

@@ -7,7 +7,8 @@
 
 - 💼 Senior Software Developer at [Saeloun](https://github.com/saeloun)
 
-- 🔭 I’m currently working on contributing [Rails](https://github.com/rails/rails)
+- 🔭 Open source contributions: [Rails](https://github.com/rails/rails), [Miru](https://github.com/saeloun/miru-web), [Chatwoot](https://github.com/chatwoot/chatwoot), [Tooljet](https://github.com/tooljet/tooljet),
+  [Codespaces Rails](https://github.com/github/codespaces-rails), [Webpack](https://github.com/webpack/webpack), [Node SaaS](https://github.com/sass/node-sass) and [Trix](https://github.com/basecamp/trix)
 
 - 🌱 I’m currently learning **Kubernetes**, **Helm** and **Learning more about the performance bottlenecks in backend applications.**
 

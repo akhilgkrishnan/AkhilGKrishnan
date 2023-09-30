@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**, **Helm** and **Learning more about the performance bottlenecks in backend applications.**
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects/](https://akhilgkrishnan.me/projects/)
+- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects](https://akhilgkrishnan.me/projects)
 
 - 📫 How to reach me **[akhilgkrishnan.me](https://akhilgkrishnan.me/)**
 

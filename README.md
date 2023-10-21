@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
 - 💼 Senior Software Developer at [Saeloun](https://github.com/saeloun) and Software Developer Consultant at [ActivateCare](https://github.com/actmd)
+- 💼 Rails issues triage team member.
 
 - 🔭 Open source contributions: [Rails](https://github.com/rails/rails), [Miru](https://github.com/saeloun/miru-web), [Chatwoot](https://github.com/chatwoot/chatwoot), [Tooljet](https://github.com/tooljet/tooljet),
   [Codespaces Rails](https://github.com/github/codespaces-rails), [Webpack](https://github.com/webpack/webpack), [Node SaaS](https://github.com/sass/node-sass) and [Trix](https://github.com/basecamp/trix).

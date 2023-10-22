@@ -20,7 +20,7 @@
 
 # 📝 Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Technical Blogs](https://akhilgkrishnan.me/posts/)
+- [Technical Blogs](https://akhilgkrishnan.me/posts)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stacks

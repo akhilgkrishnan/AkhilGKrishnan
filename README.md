@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Elixir**.
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects](https://akhilgkrishnan.me/projects)
+- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects](https://akhilgkrishnan.me/projects).
 
 - 📫 How to reach me **[akhilgkrishnan.me](https://akhilgkrishnan.me/)**
 

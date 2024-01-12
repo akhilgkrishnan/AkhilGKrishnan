@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects](https://akhilgkrishnan.me/projects).
 
-- 📫 How to reach me **[akhilgkrishnan.me](https://akhilgkrishnan.me/)**.
+- 📫 How to reach me **[hello@akhilgkrishnan.me](mailto://hello@akhilgkrishnan.me/)**.
 
 # 📝 Blogs
 <!-- BLOG-POST-LIST:START -->

@@ -10,7 +10,7 @@
 - 💼 Rails issues triage team member.
 
 - 🔭 Open source contributions: [Rails](https://github.com/rails/rails), [Miru](https://github.com/saeloun/miru-web), [Chatwoot](https://github.com/chatwoot/chatwoot), [Tooljet](https://github.com/tooljet/tooljet),
-  [Codespaces Rails](https://github.com/github/codespaces-rails), [Webpack](https://github.com/webpack/webpack), [Node SaaS](https://github.com/sass/node-sass) and [Trix](https://github.com/basecamp/trix).
+  [Codespaces Rails](https://github.com/github/codespaces-rails), [Rubocop](https://github.com/rubocop/rubocop), [Webpack](https://github.com/webpack/webpack), [Node SaaS](https://github.com/sass/node-sass) and [Trix](https://github.com/basecamp/trix).
 
 - 🌱 I’m currently learning **Elixir**.
 

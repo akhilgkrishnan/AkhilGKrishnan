@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil G Krishnan</h1>
 <p align="center"> <img src="https://github.com/akhilgkrishnan/AkhilGKrishnan/assets/22231095/fef19c3a-e397-4ec3-8a71-71e5e8ad5e52" width="300" height="300" /> </p>
-<h3 align="center">I'm Akhil G Krishnan, a technical enthusiast who does web development. Passionate to contribute to open-source projects and make cool products.</h3>
+<h4 align="center">I'm Akhil G Krishnan, a web developer with 4+ years of experience in crafting digital wonders using Ruby on Rails and React. When I'm not busy turning coffee into code, you can find me contributing to open source projects and spreading a bit of nerdy joy wherever I go. Let's make the web a fun place, one commit at a time! 🚀</h4>
 
 ---
 

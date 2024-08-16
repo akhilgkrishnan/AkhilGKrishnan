@@ -12,7 +12,7 @@
 - 🔭 Open source contributions: [Rails](https://github.com/rails/rails), [Rails Devcontainer](https://github.com/rails/devcontainer), [Miru](https://github.com/saeloun/miru-web), [Chatwoot](https://github.com/chatwoot/chatwoot), [Tooljet](https://github.com/tooljet/tooljet), [Multiwoven](https://github.com/Multiwoven/multiwoven-server),
   [Codespaces Rails](https://github.com/github/codespaces-rails), [Rubocop](https://github.com/rubocop/rubocop), [Devicon](https://github.com/devicons/devicon), [Webpack](https://github.com/webpack/webpack), [Node SaaS](https://github.com/sass/node-sass) and [Trix](https://github.com/basecamp/trix).
 
-- 🌱 I’m currently learning **Performance Optimization**, **GraphQL**
+- 🌱 I’m currently learning more about **LLM**
 
 - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me/projects](https://akhilgkrishnan.me/projects/).
 

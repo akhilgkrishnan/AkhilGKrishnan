@@ -76,9 +76,23 @@
 [![@akhilgkrishnan's Holopin board](https://holopin.io/api/user/board?user=akhilgkrishnan)](https://holopin.io/@akhilgkrishnan)
 
 <p align="center">
-  <a href="https://twitter.com/MrAkhilg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/10321356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10321356" height="30" width="30" /></a>
-  <a href="https://fb.com/akhilgkrishnan9800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
-  <a href="https://instagram.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+  <a href="https://twitter.com/MrAkhilg">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/akhilgkrishnan">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://stackoverflow.com/users/10321356">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://fb.com/akhilgkrishnan9800">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://instagram.com/akhilgkrishnan">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30" />
+  </a>
 </p>

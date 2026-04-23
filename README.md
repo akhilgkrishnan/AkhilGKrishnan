@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stacks
-<p align="center">
+<p align="left">
 
   <!-- Primary Stacks -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" />
